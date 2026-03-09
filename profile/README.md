@@ -1,5 +1,5 @@
 <p>
-  <img src="./assets/mark-dark.svg" alt="US Input" height="75px">
+  <img src="./assets/mark-dark.svg" alt="US Input" height="125px">
 </p>
 
 Engineering precision input products with exceptional performance. Designed, developed, and manufactured in the United States.
