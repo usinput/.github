@@ -5,5 +5,5 @@
 Engineering precision input devices with exceptional performance.
 
 - World wide web [usinput.com](https://www.usinput.com)
-- Email [contact@usinput.com](mailto:contact@usinput.com)
+- Email [dev@usinput.com](mailto:dev@usinput.com)
 - Age pubkey `age1jfg0kch7zmthrkpzgp5w5f2z6sgdfal6jkhv2t9npx8yv4wzv37shz6y3k`
