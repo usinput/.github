@@ -2,7 +2,7 @@
   <img src="./assets/mark-dark.svg" alt="US Input" height="125px">
 </p>
 
-Engineering precision input products with exceptional performance. Designed, developed, and manufactured in the United States.
+Engineering precision input devices with exceptional performance.
 
 - World wide web [usinput.com](https://www.usinput.com)
 - Email [contact@usinput.com](mailto:contact@usinput.com)
